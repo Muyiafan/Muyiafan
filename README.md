@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1061?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
 <!--
 **Muyiafan/Muyiafan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
