@@ -16,7 +16,3 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: ${{ secrets.API_BASE_URL }}
           SHOW_TITLE: true
-          BLOCKS: ->
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
