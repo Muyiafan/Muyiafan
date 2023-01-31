@@ -26,19 +26,19 @@ Here are some ideas to get you started:
 ### 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C597%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C597%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3 Contributions in the Year 2023
+> 🏆 4 Contributions in the Year 2023
  > 
 > 📦 153.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 12 Public Repositories 
  > 
 > 🔑 34 Private Repositories  
  > 
@@ -71,18 +71,20 @@ Sunday       24 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 3 mins         ██████████████░░░░░░░░░░░   57.02% 
-JSON                     48 mins             ██████████░░░░░░░░░░░░░░░   42.98%
+Other                    21 mins             ████████████████░░░░░░░░░   67.08% 
+Text                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.58% 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.02% 
+Properties               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.32%
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         ███████████████░░░░░░░░░░   62.02% 
-Atom                     42 mins             █████████░░░░░░░░░░░░░░░░   37.98%
+VS Code                  31 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 52 mins        █████████████████████████   100.0%
+Unknown Project          24 mins             ███████████████████░░░░░░   76.1% 
+Config                   7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.9%
 
 💻 Operating System: 
-Mac                      1 hr 52 mins        █████████████████████████   100.0%
+Mac                      31 mins             █████████████████████████   100.0%
 
 ```
 
@@ -103,5 +105,5 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/01/2023 01:15:22 UTC
+ Last Updated on 31/01/2023 01:21:36 UTC
 <!--END_SECTION:waka-->
