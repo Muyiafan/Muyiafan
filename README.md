@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C667%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C671%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 > 📦 154.1 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2023
+> 🏆 20 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 12 Public Repositories 
  > 
 > 🔑 35 Private Repositories 
  > 
@@ -69,18 +69,17 @@ Sunday                   136 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     6 hrs 1 min         ███████████████████░░░░░░   76.48 % 
-SQL                      1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Kotlin                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-SSH Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Java                     8 hrs 44 mins       ████████████████████░░░░░   80.25 % 
+SQL                      1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Kotlin                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+textmate                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-IntelliJ                 7 hrs 48 mins       █████████████████████████   99.26 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+IntelliJ                 10 hrs 54 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -100,5 +99,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2023 01:11:18 UTC
+ Last Updated on 22/03/2023 01:11:44 UTC
 <!--END_SECTION:waka-->
