@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C875%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C876%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 > 📦 153.8 kB Used in GitHub's Storage 
  > 
-> 🏆 118 Contributions in the Year 2023
+> 🏆 119 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 33 Private Repositories 
  > 
@@ -69,16 +69,17 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     3 hrs 21 mins       ████████████████████████░   97.44 % 
-Kotlin                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Java                     3 hrs 42 mins       ████████████████████████░   95.10 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Kotlin                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-IntelliJ                 3 hrs 26 mins       █████████████████████████   100.00 % 
+IntelliJ                 3 hrs 47 mins       ████████████████████████░   97.38 % 
+Atom                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 💻 Operating System: 
-Mac                      3 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -98,5 +99,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2023 00:58:27 UTC
+ Last Updated on 16/08/2023 00:58:28 UTC
 <!--END_SECTION:waka-->
