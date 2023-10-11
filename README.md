@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 ### 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C965%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C969%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 154.9 kB Used in GitHub's Storage 
+> 📦 155.0 kB Used in GitHub's Storage 
  > 
 > 🏆 136 Contributions in the Year 2023
  > 
@@ -69,17 +69,17 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 hrs 2 mins        ███████████████████░░░░░░   74.43 % 
-SQL                      27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Java Properties          13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-ActionScript 3           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Java                     5 hrs 44 mins       █████████████████████░░░░   85.96 % 
+SQL                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Java Properties          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Ezhil                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-IntelliJ                 2 hrs 44 mins       █████████████████████████   100.00 % 
+IntelliJ                 6 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -99,5 +99,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2023 01:00:40 UTC
+ Last Updated on 11/10/2023 01:00:54 UTC
 <!--END_SECTION:waka-->
