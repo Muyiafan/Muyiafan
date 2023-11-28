@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ### 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C070%20hrs%2058%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -95,5 +97,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2023 01:04:29 UTC
+ Last Updated on 28/11/2023 01:05:14 UTC
 <!--END_SECTION:waka-->
