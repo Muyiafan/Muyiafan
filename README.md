@@ -26,13 +26,11 @@ Here are some ideas to get you started:
 ### 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C271%20hrs%203%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 168.7 kB Used in GitHub's Storage 
+> 📦 168.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,44 +38,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 34 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                368 commits         ████████░░░░░░░░░░░░░░░░░   32.89 % 
-🌆 Daytime                553 commits         ████████████░░░░░░░░░░░░░   49.42 % 
-🌃 Evening                180 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-🌙 Night                  18 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   196 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Tuesday                  191 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Wednesday                176 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Thursday                 243 commits         █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-Friday                   183 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Saturday                 57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Sunday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Java                     7 hrs 12 mins       ███████████████████████░░   93.34 % 
-SQL                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-
-🔥 Editors: 
-Intellijidea             7 hrs 43 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      7 hrs 43 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -95,5 +55,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2024 01:01:28 UTC
+ Last Updated on 11/04/2024 01:02:46 UTC
 <!--END_SECTION:waka-->
