@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 
 > 📦 169.5 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -99,5 +97,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2024 01:16:20 UTC
+ Last Updated on 29/07/2024 01:13:04 UTC
 <!--END_SECTION:waka-->
