@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C500%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C503%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -69,17 +69,17 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     12 hrs 47 mins      ████████████████████████░   96.49 % 
-SQL                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Java                     12 hrs 43 mins      █████████████████████████   98.72 % 
+SQL                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 Kotlin                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-IntelliJ IDEA            9 hrs 16 mins       ███████████████░░░░░░░░░░   59.72 % 
-Intellijidea             6 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   40.28 % 
+IntelliJ IDEA            8 hrs 55 mins       ███████████████░░░░░░░░░░   58.78 % 
+Intellijidea             6 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   41.22 % 
 
 💻 Operating System: 
-Mac                      13 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -99,5 +99,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2024 00:59:31 UTC
+ Last Updated on 01/08/2024 01:17:19 UTC
 <!--END_SECTION:waka-->
