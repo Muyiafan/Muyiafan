@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 ### 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C554%20hrs%201%20min-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -42,42 +40,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 34 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                370 commits         ████████░░░░░░░░░░░░░░░░░   33.07 % 
-🌆 Daytime                551 commits         ████████████░░░░░░░░░░░░░   49.24 % 
-🌃 Evening                180 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-🌙 Night                  18 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   195 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Tuesday                  194 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Wednesday                178 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Thursday                 243 commits         █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-Friday                   179 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Saturday                 57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Sunday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -95,5 +57,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2024 01:21:35 UTC
+ Last Updated on 09/09/2024 01:18:21 UTC
 <!--END_SECTION:waka-->
