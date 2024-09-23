@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 
 > 📦 169.3 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -69,14 +67,14 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     4 hrs 37 mins       █████████████████████████   98.30 % 
-Kotlin                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Java                     3 hrs 8 mins        ████████████████████████░   97.51 % 
+Kotlin                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 42 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -96,5 +94,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2024 01:24:57 UTC
+ Last Updated on 23/09/2024 01:20:00 UTC
 <!--END_SECTION:waka-->
