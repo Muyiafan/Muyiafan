@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C588%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C588%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -69,7 +69,7 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     13 hrs              █████████████████████████   98.04 % 
+Java                     13 hrs 1 min        █████████████████████████   98.04 % 
 YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
@@ -98,5 +98,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2024 01:22:25 UTC
+ Last Updated on 01/10/2024 01:27:09 UTC
 <!--END_SECTION:waka-->
