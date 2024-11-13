@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C646%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C649%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,44 +42,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 34 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                369 commits         ████████░░░░░░░░░░░░░░░░░   32.98 % 
-🌆 Daytime                552 commits         ████████████░░░░░░░░░░░░░   49.33 % 
-🌃 Evening                180 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-🌙 Night                  18 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   196 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Tuesday                  192 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Wednesday                179 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Thursday                 243 commits         █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-Friday                   179 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Saturday                 57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Sunday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Java                     15 hrs 29 mins      ████████████████████████░   97.39 % 
-Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-SQL                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-
-🔥 Editors: 
-IntelliJ IDEA            15 hrs 54 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      15 hrs 54 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -97,5 +59,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2024 01:18:34 UTC
+ Last Updated on 13/11/2024 01:20:03 UTC
 <!--END_SECTION:waka-->
