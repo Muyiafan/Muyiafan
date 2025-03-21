@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C749%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C749%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 > 📦 170.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,16 +69,16 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     6 mins              ███████████████░░░░░░░░░░   58.36 % 
-Kotlin                   2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-textmate                 2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-FTL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Java                     17 mins             ████████████████████░░░░░   78.44 % 
+Kotlin                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+textmate                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+FTL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-IntelliJ IDEA            11 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -98,5 +98,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 20/03/2025 01:24:17 UTC
+ Last Updated on 21/03/2025 01:25:57 UTC
 <!--END_SECTION:waka-->
