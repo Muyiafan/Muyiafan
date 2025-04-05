@@ -26,13 +26,15 @@ Here are some ideas to get you started:
 ### 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C752%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C752%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 170.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 1 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,15 +69,15 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     24 mins             ███████████████░░░░░░░░░░   58.09 % 
-Other                    17 mins             ██████████░░░░░░░░░░░░░░░   41.91 % 
+Java                     1 hr 14 mins        ████████████████████░░░░░   80.74 % 
+Other                    17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
 
 🔥 Editors: 
-IntelliJ IDEA            24 mins             ███████████████░░░░░░░░░░   58.09 % 
-VS Code                  17 mins             ██████████░░░░░░░░░░░░░░░   41.91 % 
+IntelliJ IDEA            1 hr 14 mins        ████████████████████░░░░░   80.74 % 
+VS Code                  17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
 
 💻 Operating System: 
-Mac                      42 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 31 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -95,5 +97,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2025 01:26:10 UTC
+ Last Updated on 05/04/2025 01:25:19 UTC
 <!--END_SECTION:waka-->
