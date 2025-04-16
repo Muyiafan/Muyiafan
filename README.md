@@ -69,15 +69,13 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 14 mins        ████████████████████████░   97.17 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 14 mins        ████████████████████████░   97.17 % 
-VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -97,5 +95,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2025 01:38:04 UTC
+ Last Updated on 16/04/2025 01:37:42 UTC
 <!--END_SECTION:waka-->
