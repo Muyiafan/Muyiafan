@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C757%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C758%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 > 📦 170.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 1 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,47 +42,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 34 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                370 commits         ████████░░░░░░░░░░░░░░░░░   32.74 % 
-🌆 Daytime                562 commits         ████████████░░░░░░░░░░░░░   49.73 % 
-🌃 Evening                180 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-🌙 Night                  18 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   196 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Tuesday                  193 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Wednesday                186 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Thursday                 243 commits         █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-Friday                   182 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Saturday                 57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Sunday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Go                       1 hr 41 mins        ████████████████░░░░░░░░░   62.58 % 
-SQL                      44 mins             ███████░░░░░░░░░░░░░░░░░░   27.21 % 
-Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-
-🔥 Editors: 
-Cursor                   1 hr 39 mins        ███████████████░░░░░░░░░░   61.19 % 
-IntelliJ IDEA            44 mins             ███████░░░░░░░░░░░░░░░░░░   27.21 % 
-VS Code                  18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-
-💻 Operating System: 
-Mac                      2 hrs 42 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -100,5 +59,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2025 01:26:59 UTC
+ Last Updated on 27/04/2025 01:41:59 UTC
 <!--END_SECTION:waka-->
