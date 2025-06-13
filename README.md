@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C787%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C792%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -69,16 +69,13 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     12 hrs 16 mins      █████████████████████████   98.26 % 
-YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Java                     14 hrs 9 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            12 hrs 16 mins      █████████████████████████   98.27 % 
-VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+IntelliJ IDEA            14 hrs 9 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -98,5 +95,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2025 01:42:53 UTC
+ Last Updated on 13/06/2025 01:43:41 UTC
 <!--END_SECTION:waka-->
