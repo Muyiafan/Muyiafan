@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 > 📦 170.7 kB Used in GitHub's Storage 
  > 
+> 🏆 6 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -67,14 +69,13 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     23 mins             ██████████████████████░░░   89.27 % 
-Go                       2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -94,5 +95,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2025 01:45:04 UTC
+ Last Updated on 14/08/2025 01:45:50 UTC
 <!--END_SECTION:waka-->
