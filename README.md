@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 ### 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C968%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C968%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 171.0 kB Used in GitHub's Storage 
+> 📦 171.1 kB Used in GitHub's Storage 
  > 
 > 🏆 27 Contributions in the Year 2025
  > 
@@ -69,13 +69,17 @@ Sunday                   75 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     11 mins             ██████████████████░░░░░░░   70.27 % 
+Go                       2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Other                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████░░░░   85.39 % 
+Atom                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      13 mins             █████████████████████░░░░   84.89 % 
+Linux                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
 ```
 
 **I Mostly Code in Java** 
@@ -95,5 +99,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2025 01:40:16 UTC
+ Last Updated on 22/11/2025 01:28:30 UTC
 <!--END_SECTION:waka-->
