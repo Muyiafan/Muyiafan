@@ -69,14 +69,13 @@ Sunday                   75 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     22 mins             ██████████████████████░░░   89.56 % 
-Bash                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Atom                     25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -96,5 +95,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2025 01:44:39 UTC
+ Last Updated on 06/12/2025 01:38:39 UTC
 <!--END_SECTION:waka-->
