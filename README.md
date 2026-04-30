@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C989%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C990%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 > 📦 170.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2026
+> 🏆 2 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,42 +42,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 36 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                384 commits         ████████░░░░░░░░░░░░░░░░░   33.02 % 
-🌆 Daytime                579 commits         ████████████░░░░░░░░░░░░░   49.79 % 
-🌃 Evening                182 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-🌙 Night                  18 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   197 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Tuesday                  201 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Wednesday                201 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Thursday                 247 commits         █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-Friday                   185 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Saturday                 57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Sunday                   75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -95,5 +59,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2026 02:58:23 UTC
+ Last Updated on 30/04/2026 03:21:37 UTC
 <!--END_SECTION:waka-->
