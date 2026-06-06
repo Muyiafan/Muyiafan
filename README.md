@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C096%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C097%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -42,44 +42,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 36 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                386 commits         ████████░░░░░░░░░░░░░░░░░   33.10 % 
-🌆 Daytime                580 commits         ████████████░░░░░░░░░░░░░   49.74 % 
-🌃 Evening                182 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-🌙 Night                  18 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   197 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Tuesday                  201 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Wednesday                203 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Thursday                 248 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-Friday                   185 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Saturday                 57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Sunday                   75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Swift                    5 mins              ███████████░░░░░░░░░░░░░░   43.70 % 
-Zig                      5 mins              ███████████░░░░░░░░░░░░░░   42.04 % 
-XML                      1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-
-🔥 Editors: 
-Codex CLI                12 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -97,5 +59,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Muyiafan/Muyiafan/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2026 03:53:55 UTC
+ Last Updated on 06/06/2026 03:36:01 UTC
 <!--END_SECTION:waka-->
